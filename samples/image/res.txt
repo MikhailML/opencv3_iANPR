@@ -1,0 +1,2 @@
+WARNING! File lic.key not found. This may crash program if you use license version of iANPR SDK dlls
+K666YY54
